@@ -1,0 +1,11 @@
+/* Tüm çubuklar için varsayılan renk */
+.chart-bar {
+    -fx-bar-fill: #1d76b7 ;
+}
+/* Ana BorderPane */
+.border-pane {
+    -fx-background-color: #d8fffe;
+    -fx-border-color: #1d76b7;
+    -fx-border-width: 2px;
+    -fx-padding: 10px;
+}
